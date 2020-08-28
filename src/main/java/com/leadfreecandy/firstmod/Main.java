@@ -46,6 +46,6 @@ public class Main {
     }
 
 
-//samir gay
+//samir dumb and gay
 
 }
