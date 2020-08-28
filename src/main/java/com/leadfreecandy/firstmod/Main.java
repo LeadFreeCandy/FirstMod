@@ -46,7 +46,6 @@ public class Main {
     }
 
 
-
-    //john tastes like butt
+//samir gay
 
 }
