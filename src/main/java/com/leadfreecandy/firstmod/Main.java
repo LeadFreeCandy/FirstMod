@@ -46,10 +46,6 @@ public class Main {
     }
 
 
-<<<<<<< HEAD
-    //brain tastes like butt
-=======
-    //john tastes like butt
->>>>>>> 3efb81be81bbcd3c4d19cfe145f83a56744ba912
+//samir gay
 
 }
