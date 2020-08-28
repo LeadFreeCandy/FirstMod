@@ -11,6 +11,6 @@ public class CommonProxy {
 
     }
 
-    public void regsiterItemRenderer(ItemBase itemBase, int i, String inventory) {
+    public void registerItemRenderer(ItemBase itemBase, int i, String inventory) {
     }
 }
