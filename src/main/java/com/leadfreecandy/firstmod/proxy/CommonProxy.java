@@ -6,10 +6,11 @@ import net.minecraft.item.Item;
 
 public class CommonProxy {
 
+
     public void registerItemRenderer(Item item, int meta, String id){
 
-
     }
+
 
     public void registerItemRenderer(ItemBase itemBase, int i, String inventory) {
     }
